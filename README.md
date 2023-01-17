@@ -14,6 +14,8 @@ I have experience in:
 
 I am a big believer in openness 📖, accessibility 💯 and transparency 🔍.
 
+Jag lära svenska i min fritid också. Prata till mig på svensk som du vill. 🇸🇪
+
 Some of my more interesting repos to check out are:
 
 - [`metar`] (Rust) for parsing aviation weather reports 🌡.

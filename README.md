@@ -6,6 +6,7 @@ I have experience in:
 - Java (since 2011)
 - Web stack (HTML/JS/CSS/TS, since 2013)
 - Bash (since 2014)
+- Python (since 2013, particularly with TensorFlow and Django)
 - C (since 2015)
 - Docker (since 2017)
 - Rust (since 2019)

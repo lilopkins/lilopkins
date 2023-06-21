@@ -15,7 +15,7 @@ I have experience in:
 
 I am a big believer in openness 📖, accessibility 💯 and transparency 🔍.
 
-Jag lär mig svenska i min fritid också. Jag är öppna för att flytta till Sverige för bra jobbet. 🇸🇪
+Jag lära mig svenska i min fritid också. Jag kan flytta till Sverige för ett bra jobb. 🇸🇪
 
 Some of my more interesting repos to check out are:
 

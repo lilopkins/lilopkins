@@ -9,7 +9,7 @@ I have experience in:
 - Python (since 2013, particularly with TensorFlow and Django)
 - C (since 2015)
 - Docker (since 2017)
-- Rust (since 2019)
+- Rust (since 2017)
 - some Kubernetes (since 2022)
 - Scala (since 2022)
 
